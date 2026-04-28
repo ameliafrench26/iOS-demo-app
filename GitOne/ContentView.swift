@@ -24,6 +24,7 @@ struct ContentView: View {
             Text("No web dev today")
             Text("No web dev today")
             Text("No web dev today")
+            Text("No web dev today")
             
         }
         .padding()
